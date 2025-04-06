@@ -1,3 +1,19 @@
+<pre style="font-size: 10px;">
+
+
+                                                                                                
+                                                                                                 
+                                   ███████    ██████                                             
+         ████████   █████    █████    ███      █    ███████      ████ █████  █████ ████          
+        ██     ██   ██       ███        ███  █         ██          ███          ███    ███       
+       ███████     ██  ████  ██           ██           ██           ██   ██      ███████         
+      ██          ███       ███           ██           ██        █   ██       █   ███   ███      
+  ████████     ███████   ████████      ████████      █████████████ █████████████ ███████   █████ 
+                                                                                                 
+                                                                                                 
+                                                        </pre>
+
+
 Phyler is a modular metaprogram framework designed for text analysis and interactive visualization. Inspired by phylogenetic systematics, Phyler allows users to explore text data through clustering and phenetic methods, generating navigable web directories with interactive graphs. Built with OCaml and leveraging D3.js for dynamic visualizations, it is a powerful tool for researchers and developers working with text data.
 Features
 
