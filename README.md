@@ -11,7 +11,7 @@
   ████████     ███████   ████████      ████████      █████████████ █████████████ ███████   █████ 
                                                                                                  
                                                                                                  
-                                                        </pre>
+</pre>
 
 
 Phyler is a modular metaprogram framework designed for text analysis and interactive visualization. Inspired by phylogenetic systematics, Phyler allows users to explore text data through clustering and phenetic methods, generating navigable web directories with interactive graphs. Built with OCaml and leveraging D3.js for dynamic visualizations, it is a powerful tool for researchers and developers working with text data.
@@ -30,7 +30,7 @@ To set up Phyler on your local machine, follow these steps:
     Clone the Repository:
     bash
 
-    git clone https://github.com/your-username/phyler.git
+    git clone https://github.com/walshgestalt/phyler.git
 
     Navigate to the Project Directory:
     bash
@@ -122,8 +122,6 @@ Additional Notes
     Output Description: The generated index.html contains an interactive graph where nodes represent text inputs or clusters, and edges represent relationships based on the chosen distance metric and clustering method.
     Extending Phyler: Thanks to its modular design, you can easily add new modules for different distance metrics, clustering algorithms, or visualization types.
 
-Below is a detailed simulation of a developer workflow for the Phyler project, which you can include in the README afterward to guide new developers through a typical contribution process. This simulation covers cloning the repository, setting up the environment, making changes, testing, and submitting a pull request.
-Developer Workflow Simulation
 This section provides a step-by-step simulation of a typical developer workflow for contributing to the Phyler project. It walks you through cloning the repository, setting up your development environment, implementing a change, testing it, and submitting a pull request.
 Step 1: Fork and Clone the Repository
 
