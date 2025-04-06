@@ -249,4 +249,4 @@ To keep your fork aligned with the original repository:
         git merge upstream/main
         git push origin main
 
-This workflow provides a clear, repeatable process for contributing to Phyler, ensuring that new developers can set up their environment, implement features, test them thoroughly, and collaborate effectively via pull requests while keeping their fork up-to-date. Include this in your README to onboard contributors seamlessly!
+This workflow provides a clear, repeatable process for contributing to Phyler, ensuring that new developers can set up their environment, implement features, test them thoroughly, and collaborate effectively via pull requests while keeping their fork up-to-date. 
